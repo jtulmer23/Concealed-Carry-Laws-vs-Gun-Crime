@@ -1,0 +1,86 @@
+Data Notes:
+Total (PC):	21
+Total (CC):	4
+Total (PR): 25
+Total (N):	15
+Total (L):	20
+Total (M):	10
+Total (H):	5
+
+Top 10 Total Deaths (per 100k):
+1.  Alaska 			(PC/N)(23.61)
+2.  Mississippi		(PC/N)(23.25)
+3.  Louisiana		(PR/L)(22.40)
+4.  Alabama			(CC/L)(21.62)
+5.  Wyoming			(PC/L)(21.59)
+6.  Missouri		(PC/L)(20.88)
+7.  New Mexico		(PR/H)(20.46)
+8.  Arkansas		(PC/L)(19.69)
+9.  Montana			(PC/N)(19.37)
+10. South Carolina	(PR/L)(18.57)
+PC:6 CC:1 PR:3 
+H:1 M:0 L:6 N:3
+
+Top 10 Total Wounded (per 100k):
+1.  Mississippi		(PC/N)(93.66)
+2.  Louisiana		(PR/L)(63.49)
+3.  Alabama			(CC/L)(60.81)
+4.  Delaware		(PR/H)(57.50)
+5.  South Carolina	(PR/L)(45.42)
+6.  West Virginia		(PC/N)(44.19)
+7.  Georgia			(CC/N)(40.01)
+8.  Tennessee		(PC/L)(38.66)
+9.  Missouri		(PC/L)(37.48)
+10. Kentucky		(PC/N)(33.95)
+PC:5 CC:2 PR:3 
+H:1 M:0 L:5 N:4
+
+Top 10 Suicide Deaths (per 100k):
+1.  Wyoming			(PC/L)(18.48)
+2.  Montana			(PC/N)(16.20)
+3.  Alaska			(PC/N)(16.10)
+4.  West Virginia		(PC/N)(13.23)
+5.  New Mexico		(PR/H)(12.94)
+6.  Idaho			(PC/N)(12.73)
+7.  Oklahoma        	(PC/L)(12.19)
+8.  Arkansas		(PC/L)(11.73)
+9.  Missouri		(PC/L)(11.21)
+10. Nevada			(PR/M)(11.16)
+PC:8 CC:0 PR:2 
+H:1 M:1 L:4 N:4
+
+Top 10 Homicide Deaths (per 100k):
+1.  Louisiana		(PR/L)(12.43)
+2.  Mississippi		(PC/N)(12.13)
+3.  Alabama			(CC/L)(9.98)
+4.  Missouri		(PC/L)(9.22)
+5.  South Carolina	(PR/L)(7.89)
+6.  Maryland		(PR/M)(7.68)
+7.  Tennessee		(PC/L)(7.44)
+8.  Illinois		(PR/M)(7.37)
+9.  Arkansas		(PC/L)(7.27)
+10. New Mexico		(PR/H)(6.94)
+PC:4 CC:1 PR:5 
+H:1 M:2 L:6 N:1
+
+Teen/Child Deaths:
+	Homicides: 	T(28)
+		H:2 M:9 L:11 N:6
+	Suicides:	T(19)
+		H:1 M:1 L:8 N:9
+	Tied:		T(1)	
+		H:0 M:0 L:0 N:1
+	N/A:		T(2)
+		H:2 M:0 L:0 N:0
+
+States With Higher Homicides than Suicides (not in order):
+1. Illinois
+2. Louisiana
+3. Maryland
+4. Mississippi
+5. New Jersey
+6. delaware is tied***
+
+Total Deaths:	40,490
+Total Suicides:	23,882 (58.98%)
+Total Homicides:	15,791 (39.00%)
